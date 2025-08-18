@@ -14,14 +14,14 @@ A comprehensive DevOps pipeline implementation for automating the build, test, a
 └── README.md              # Project documentation
 
 🛠️ Tech Stack
-CI/CD: GitHub Actions / Jenkins / GitLab CI
+CI/CD: GitHub Actions / Jenkins 
 Containerization: Docker
 Orchestration: Kubernetes (K8s)
 IaC: Terraform / Pulumi
 Monitoring: Prometheus + Grafana
 Logging: ELK Stack / Loki
 Configuration Management: Ansible
-Cloud Providers: AWS / Azure / GCP
+Cloud Providers: AWS / Azure 
 
 📦 Features
 Automated build and test pipelines
